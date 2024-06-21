@@ -208,8 +208,9 @@
     grid-column: span 3;
     text-align: center;
     color: rgb(241, 241, 244);
-    margin: -1rem;
-    padding: 0rem 1rem 1rem 1.5rem;
+    justify-content: center;
+    display: grid;
+    
     
  }
 
